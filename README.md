@@ -28,3 +28,14 @@ Q4: Convolutional Networks
 
 Q5: PyTorch / TensorFlow on CIFAR-10 (Not implemented, you may refer to my another repository "pyTorch-demos" for some implementations)
 
+# assignment 3
+Q1: Image Captioning with Vanilla RNNs 
+
+Q2: Image Captioning with LSTMs
+
+Q3: Network Visualization: Saliency maps, Class Visualization, and Fooling Images 
+
+Q4: Style Transfer 
+
+Q5: Generative Adversarial Networks (pyTorch version implemented)
+
